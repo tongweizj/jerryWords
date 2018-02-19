@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>owl</string>
+		<key>translation</key>
+		<string>猫头鹰</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>bird</string>
+		<key>translation</key>
+		<string>小鸟</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>fox</string>
+		<key>translation</key>
+		<string>狐狸</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>seal</string>
+		<key>translation</key>
+		<string>海豹</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>whale</string>
+		<key>translation</key>
+		<string>鲸鱼</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>horse</string>
+		<key>translation</key>
+		<string>马</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>cow</string>
+		<key>translation</key>
+		<string>牛</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>fish</string>
+		<key>translation</key>
+		<string>鱼</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>turtle</string>
+		<key>translation</key>
+		<string>海龟</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>bear</string>
+		<key>translation</key>
+		<string>熊</string>
+	</dict>
+</array>
+</plist>

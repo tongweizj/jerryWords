@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>too.mp3</string>
+		<key>word</key>
+		<string>too</string>
+		<key>translation</key>
+		<string>也，太</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>/media/english/ameProns/good1.mp3</string>
+		<key>word</key>
+		<string>good</string>
+		<key>translation</key>
+		<string>好</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>book</string>
+		<key>translation</key>
+		<string>书，预约</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>school</string>
+		<key>translation</key>
+		<string>学校</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>when</string>
+		<key>translation</key>
+		<string>什么时候</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>what</string>
+		<key>translation</key>
+		<string>什么</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>took</string>
+		<key>translation</key>
+		<string>拿，take 的过去式</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>who</string>
+		<key>translation</key>
+		<string>谁</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>soon</string>
+		<key>translation</key>
+		<string>不久，立刻</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string></string>
+		<key>word</key>
+		<string>shook</string>
+		<key>translation</key>
+		<string>抖动，摇晃，摇动。 shake 过去式
+</string>
+	</dict>
+</array>
+</plist>

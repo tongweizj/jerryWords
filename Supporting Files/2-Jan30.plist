@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>way</string>
+		<key>translation</key>
+		<string>路，方法</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>away</string>
+		<key>translation</key>
+		<string>离开</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>today</string>
+		<key>translation</key>
+		<string>今天</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>chain</string>
+		<key>translation</key>
+		<string>锁链、通路</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>wait</string>
+		<key>translation</key>
+		<string>等待</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>chase</string>
+		<key>translation</key>
+		<string>追</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>play</string>
+		<key>translation</key>
+		<string>玩</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>played</string>
+		<key>translation</key>
+		<string>玩，play的过去式</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>rain</string>
+		<key>translation</key>
+		<string>雨</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>paint</string>
+		<key>translation</key>
+		<string>画，绘画</string>
+	</dict>
+</array>
+</plist>

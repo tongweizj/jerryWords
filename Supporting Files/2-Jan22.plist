@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>boat</string>
+		<key>translation</key>
+		<string>小船</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>coat</string>
+		<key>translation</key>
+		<string>外套
+</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>float</string>
+		<key>translation</key>
+		<string>漂浮</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>long</string>
+		<key>translation</key>
+		<string>长</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>along</string>
+		<key>translation</key>
+		<string>沿着，顺着</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>belong</string>
+		<key>translation</key>
+		<string>顺着</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>paw</string>
+		<key>translation</key>
+		<string>爪子</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>fawn</string>
+		<key>translation</key>
+		<string>小鹿;a young deer</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>tall</string>
+		<key>translation</key>
+		<string>比普通的高； a person, building, tree etc that is tall is a greater height than normal</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>wall</string>
+		<key>translation</key>
+		<string>墙壁</string>
+	</dict>
+</array>
+</plist>
