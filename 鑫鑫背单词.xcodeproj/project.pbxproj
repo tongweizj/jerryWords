@@ -7,30 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AA001C81202A7D28000CF523 /* word.m in Sources */ = {isa = PBXBuildFile; fileRef = AA001C80202A7D28000CF523 /* word.m */; };
+		AA001C81202A7D28000CF523 /* YSword.m in Sources */ = {isa = PBXBuildFile; fileRef = AA001C80202A7D28000CF523 /* YSword.m */; };
 		AA001C8A202AAC87000CF523 /* too.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AA001C89202AAC86000CF523 /* too.mp3 */; };
 		AA2669F6201A4F80009C3AF9 /* 2-Jan30.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2669F5201A4F80009C3AF9 /* 2-Jan30.plist */; };
 		AA2669F8201ACACF009C3AF9 /* number.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2669F7201ACACF009C3AF9 /* number.plist */; };
 		AA2669FA201ACD85009C3AF9 /* EOL-Jan22.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2669F9201ACD85009C3AF9 /* EOL-Jan22.plist */; };
 		AA2669FC201AD457009C3AF9 /* wordsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2669FB201AD457009C3AF9 /* wordsList.plist */; };
+		AA9A774A203FD6220058C680 /* YSqueryDB.m in Sources */ = {isa = PBXBuildFile; fileRef = AA9A7749203FD6220058C680 /* YSqueryDB.m */; };
 		AAA2CA9820183BD900AB3A80 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA2CA9720183BD900AB3A80 /* AppDelegate.m */; };
 		AAA2CA9B20183BDA00AB3A80 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA2CA9A20183BDA00AB3A80 /* ViewController.m */; };
 		AAA2CA9E20183BDA00AB3A80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAA2CA9C20183BDA00AB3A80 /* Main.storyboard */; };
 		AAA2CAA020183BDA00AB3A80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAA2CA9F20183BDA00AB3A80 /* Assets.xcassets */; };
 		AAA2CAA320183BDA00AB3A80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAA2CAA120183BDA00AB3A80 /* LaunchScreen.storyboard */; };
 		AAA2CAA620183BDA00AB3A80 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA2CAA520183BDA00AB3A80 /* main.m */; };
+		AAC23EAF203DF0C700D4A952 /* jerryDB.SQLite in Resources */ = {isa = PBXBuildFile; fileRef = AAC23EAE203DF0C700D4A952 /* jerryDB.SQLite */; };
 		AADCEDC7201A45CA0051E5C0 /* 2-Jan22.plist in Resources */ = {isa = PBXBuildFile; fileRef = AADCEDC5201A45CA0051E5C0 /* 2-Jan22.plist */; };
 		AADCEDCA201A4E670051E5C0 /* 2-Feb05.plist in Resources */ = {isa = PBXBuildFile; fileRef = AADCEDC9201A4E670051E5C0 /* 2-Feb05.plist */; };
+		FF447C25E202E8EE9E2B0B46 /* libPods-鑫鑫背单词.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BE348318D0F3D7E3B0C8ECA /* libPods-鑫鑫背单词.a */; settings = {ATTRIBUTES = (Required, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AA001C7F202A7D28000CF523 /* word.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = word.h; sourceTree = "<group>"; };
-		AA001C80202A7D28000CF523 /* word.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = word.m; sourceTree = "<group>"; };
+		1BE348318D0F3D7E3B0C8ECA /* libPods-鑫鑫背单词.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-鑫鑫背单词.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64418861C0A1F5216B11D3AD /* Pods-鑫鑫背单词.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-鑫鑫背单词.release.xcconfig"; path = "Pods/Target Support Files/Pods-鑫鑫背单词/Pods-鑫鑫背单词.release.xcconfig"; sourceTree = "<group>"; };
+		6AB9C3A6A5D0A2651180AD4A /* Pods-鑫鑫背单词.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-鑫鑫背单词.debug.xcconfig"; path = "Pods/Target Support Files/Pods-鑫鑫背单词/Pods-鑫鑫背单词.debug.xcconfig"; sourceTree = "<group>"; };
+		AA001C7F202A7D28000CF523 /* YSword.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YSword.h; sourceTree = "<group>"; };
+		AA001C80202A7D28000CF523 /* YSword.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YSword.m; sourceTree = "<group>"; };
 		AA001C89202AAC86000CF523 /* too.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = too.mp3; sourceTree = "<group>"; };
 		AA2669F5201A4F80009C3AF9 /* 2-Jan30.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "2-Jan30.plist"; sourceTree = "<group>"; };
 		AA2669F7201ACACF009C3AF9 /* number.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = number.plist; sourceTree = "<group>"; };
 		AA2669F9201ACD85009C3AF9 /* EOL-Jan22.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "EOL-Jan22.plist"; sourceTree = "<group>"; };
 		AA2669FB201AD457009C3AF9 /* wordsList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = wordsList.plist; sourceTree = "<group>"; };
+		AA9A7748203FD6220058C680 /* YSqueryDB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YSqueryDB.h; sourceTree = "<group>"; };
+		AA9A7749203FD6220058C680 /* YSqueryDB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YSqueryDB.m; sourceTree = "<group>"; };
 		AAA2CA9320183BD900AB3A80 /* 鑫鑫背单词.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "鑫鑫背单词.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAA2CA9620183BD900AB3A80 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AAA2CA9720183BD900AB3A80 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -41,6 +49,7 @@
 		AAA2CAA220183BDA00AB3A80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAA2CAA420183BDA00AB3A80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAA2CAA520183BDA00AB3A80 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AAC23EAE203DF0C700D4A952 /* jerryDB.SQLite */ = {isa = PBXFileReference; lastKnownFileType = file; path = jerryDB.SQLite; sourceTree = SOURCE_ROOT; };
 		AADCEDC5201A45CA0051E5C0 /* 2-Jan22.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "2-Jan22.plist"; sourceTree = "<group>"; };
 		AADCEDC9201A4E670051E5C0 /* 2-Feb05.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "2-Feb05.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -50,12 +59,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF447C25E202E8EE9E2B0B46 /* libPods-鑫鑫背单词.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		27A87805A163C44CFB572807 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1BE348318D0F3D7E3B0C8ECA /* libPods-鑫鑫背单词.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		AA001C88202AAC86000CF523 /* mp3 */ = {
 			isa = PBXGroup;
 			children = (
@@ -69,6 +87,8 @@
 			children = (
 				AAA2CA9520183BD900AB3A80 /* 鑫鑫背单词 */,
 				AAA2CA9420183BD900AB3A80 /* Products */,
+				EB48DD686FEEEA1F6AF80F04 /* Pods */,
+				27A87805A163C44CFB572807 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 0;
@@ -88,8 +108,10 @@
 				AAA2CA9720183BD900AB3A80 /* AppDelegate.m */,
 				AAA2CA9920183BDA00AB3A80 /* ViewController.h */,
 				AAA2CA9A20183BDA00AB3A80 /* ViewController.m */,
-				AA001C7F202A7D28000CF523 /* word.h */,
-				AA001C80202A7D28000CF523 /* word.m */,
+				AA9A7748203FD6220058C680 /* YSqueryDB.h */,
+				AA9A7749203FD6220058C680 /* YSqueryDB.m */,
+				AA001C7F202A7D28000CF523 /* YSword.h */,
+				AA001C80202A7D28000CF523 /* YSword.m */,
 				AAA2CA9C20183BDA00AB3A80 /* Main.storyboard */,
 				AAA2CA9F20183BDA00AB3A80 /* Assets.xcassets */,
 				AAA2CAA120183BDA00AB3A80 /* LaunchScreen.storyboard */,
@@ -103,6 +125,7 @@
 		AAA2CAAE2018446600AB3A80 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AAC23EAE203DF0C700D4A952 /* jerryDB.SQLite */,
 				AA2669F7201ACACF009C3AF9 /* number.plist */,
 				AADCEDC9201A4E670051E5C0 /* 2-Feb05.plist */,
 				AA001C88202AAC86000CF523 /* mp3 */,
@@ -114,6 +137,15 @@
 			path = "Supporting Files";
 			sourceTree = SOURCE_ROOT;
 		};
+		EB48DD686FEEEA1F6AF80F04 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6AB9C3A6A5D0A2651180AD4A /* Pods-鑫鑫背单词.debug.xcconfig */,
+				64418861C0A1F5216B11D3AD /* Pods-鑫鑫背单词.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -121,9 +153,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AAA2CAA920183BDA00AB3A80 /* Build configuration list for PBXNativeTarget "鑫鑫背单词" */;
 			buildPhases = (
+				64955D2CE3503BBBAC004E48 /* [CP] Check Pods Manifest.lock */,
 				AAA2CA8F20183BD900AB3A80 /* Sources */,
 				AAA2CA9020183BD900AB3A80 /* Frameworks */,
 				AAA2CA9120183BD900AB3A80 /* Resources */,
+				7CFEE387C21B92546D5826C2 /* [CP] Embed Pods Frameworks */,
+				367B656CB4E15D6BAD573297 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -174,6 +209,7 @@
 			files = (
 				AAA2CAA320183BDA00AB3A80 /* LaunchScreen.storyboard in Resources */,
 				AAA2CAA020183BDA00AB3A80 /* Assets.xcassets in Resources */,
+				AAC23EAF203DF0C700D4A952 /* jerryDB.SQLite in Resources */,
 				AADCEDCA201A4E670051E5C0 /* 2-Feb05.plist in Resources */,
 				AA2669FA201ACD85009C3AF9 /* EOL-Jan22.plist in Resources */,
 				AA2669F6201A4F80009C3AF9 /* 2-Jan30.plist in Resources */,
@@ -187,15 +223,67 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		367B656CB4E15D6BAD573297 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-鑫鑫背单词/Pods-鑫鑫背单词-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		64955D2CE3503BBBAC004E48 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-鑫鑫背单词-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7CFEE387C21B92546D5826C2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-鑫鑫背单词/Pods-鑫鑫背单词-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		AAA2CA8F20183BD900AB3A80 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				AAA2CA9B20183BDA00AB3A80 /* ViewController.m in Sources */,
-				AA001C81202A7D28000CF523 /* word.m in Sources */,
+				AA001C81202A7D28000CF523 /* YSword.m in Sources */,
 				AAA2CAA620183BDA00AB3A80 /* main.m in Sources */,
 				AAA2CA9820183BD900AB3A80 /* AppDelegate.m in Sources */,
+				AA9A774A203FD6220058C680 /* YSqueryDB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -327,6 +415,7 @@
 		};
 		AAA2CAAA20183BDA00AB3A80 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6AB9C3A6A5D0A2651180AD4A /* Pods-鑫鑫背单词.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -342,6 +431,7 @@
 		};
 		AAA2CAAB20183BDA00AB3A80 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64418861C0A1F5216B11D3AD /* Pods-鑫鑫背单词.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
